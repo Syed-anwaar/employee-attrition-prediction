@@ -1,4 +1,8 @@
+# Core libraries for data handling and ML
 pandas
 numpy
 scikit-learn
 imbalanced-learn
+
+# Notebook environment
+jupyter
